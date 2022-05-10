@@ -15,7 +15,7 @@ set:
 rules:
   r0:
     request:
-      method: POST
+      method: GET
       path: /ddns_check.ccp
       headers:
         Cookie: hasLogin=1
